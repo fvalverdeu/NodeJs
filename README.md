@@ -1,1 +1,6 @@
 # nodejs
+# types of commits:
+# config-repo: files of configuration of repository. For example: .gitignore, .keep, readme, etc...
+# config-proj: files of configuration of project. For example: install packages, libraries, etc...
+# feature: changes in features.
+# merge: merge with others branchs.
