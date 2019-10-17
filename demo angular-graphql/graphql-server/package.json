@@ -1,0 +1,22 @@
+{
+  "name": "graphqlserver",
+  "version": "1.0.0",
+  "description": "Demo by practice fetching data whit GraphQL in Angular aplication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphQL",
+    "Angular"
+  ],
+  "author": "Fernando Valverde Uchoffen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.4",
+    "graphql-tools": "^4.0.5"
+  }
+}

@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="template">
+    <h1>Simple CRUD functionality using Angular8 with Bootstrap 4</h1>
+  </div>
+</div>
+
+<p-accordion>
+  <p-accordionTab header="India">
+    <p-orderList [value]="Indiastate">
+      <ng-template let-state pTemplate="item">
+        <div class="ui-helper-clearfix">
+          <div style="font-size:16px;float:left;margin:5px">{{state}}</div>
+        </div>
+      </ng-template>
+    </p-orderList>
+  </p-accordionTab>
+  <p-accordionTab header="Australia">
+    <p-orderList [value]="Ausstate">
+      <ng-template let-Ausstate pTemplate="item">
+        <div class="ui-helper-clearfix">
+          <div style="font-size:16px;float:left;margin:5px">{{Ausstate}}</div>
+        </div>
+      </ng-template>
+    </p-orderList>
+  </p-accordionTab>
+  <p-accordionTab header="SriLanka">
+    <p-orderList [value]="Slstate">
+      <ng-template let-Slstate pTemplate="item">
+        <div class="ui-helper-clearfix">
+          <div style="font-size:16px;float:center;margin:5px">{{Slstate}}</div>
+        </div>
+      </ng-template>
+    </p-orderList>
+
+  </p-accordionTab>
+</p-accordion>
