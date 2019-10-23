@@ -1,45 +1,47 @@
-{
-  "country": "PE",
-  "app": "web",
-  "username":"sdigitalventas",
-  "password":"Pionero2018",
-  "role": "SAC",
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
-},
-{
-  "country": "PE",
-  "app": "web",
-  "username":"dv",
-  "password":"123456",
-  "role": "DV",
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
-},
-{
-  "country": "PE",
-  "app": "web",
-  "username":"gr",
-  "password":"123456",
-  "role": "GR",
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
-},
-{
-  "country": "PE",
-  "app": "web",
-  "username":"gz",
-  "password":"123456",
-  "role": "GZ",
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
-},
-{
-  "country": "PE",
-  "app": "web",
-  "username":"045020460",
-  "password":"123456",
-  "role": "SE",
-  "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
-  "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
-}
+[
+  {
+    "country": "PE",
+    "app": "web",
+    "username":"sdigitalventas",
+    "password":"Pionero2018",
+    "role": "SAC",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
+    "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
+  },
+  {
+    "country": "PE",
+    "app": "web",
+    "username":"dv",
+    "password":"123456",
+    "role": "DV",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
+    "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
+  },
+  {
+    "country": "PE",
+    "app": "web",
+    "username":"gr",
+    "password":"123456",
+    "role": "GR",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
+    "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
+  },
+  {
+    "country": "PE",
+    "app": "web",
+    "username":"gz",
+    "password":"123456",
+    "role": "GZ",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
+    "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
+  },
+  {
+    "country": "PE",
+    "app": "web",
+    "username":"045020460",
+    "password":"123456",
+    "role": "SE",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTc5MTYxOH0.W8yf50jcu_8IVtbk88ybvlCyB78Miq61IG45CSIULbI",
+    "refreshToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiMDQ1MDIwNDYwIiwicm9sIjoiU0UiLCJpYXQiOjE1NzE3ODgwMTgsImV4cCI6MTU3MTg3NDQxOH0.jn2a_TB-OLlYpUX3rMoPLY1ImPqb-hT280TXrUTYUkk"
+  }
+]
