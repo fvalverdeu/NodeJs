@@ -18,8 +18,8 @@ export class Region {
 }
 
 export class Zone {
-  idzone: number
+  idzone: string
   code: string
-  regionid: number
+  regionid: string
   regioncode: string
 }
