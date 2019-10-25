@@ -1,0 +1,62 @@
+[
+  {
+    "paisid": 2,
+    "codigoiso": "BO",
+    "nombre": "Bolivia"
+  },
+  {
+    "paisid": 3,
+    "codigoiso": "CL",
+    "nombre": "Chile"
+  },
+  {
+    "paisid": 4,
+    "codigoiso": "CO",
+    "nombre": "Colombia"
+  },
+  {
+    "paisid": 5,
+    "codigoiso": "CR",
+    "nombre": "Costa Rica"
+  },
+  {
+    "paisid": 6,
+    "codigoiso": "EC",
+    "nombre": "Ecuador"
+  },
+  {
+    "paisid": 7,
+    "codigoiso": "SV",
+    "nombre": "El Salvador"
+  },
+  {
+    "paisid": 8,
+    "codigoiso": "GT",
+    "nombre": "Guatemala"
+  },
+  {
+    "paisid": 9,
+    "codigoiso": "MX",
+    "nombre": "México"
+  },
+  {
+    "paisid": 10,
+    "codigoiso": "PA",
+    "nombre": "Panamá"
+  },
+  {
+    "paisid": 11,
+    "codigoiso": "PE",
+    "nombre": "Perú"
+  },
+  {
+    "paisid": 12,
+    "codigoiso": "PR",
+    "nombre": "Puerto Rico"
+  },
+  {
+    "paisid": 13,
+    "codigoiso": "DO",
+    "nombre": "República Dominicana"
+  }
+]

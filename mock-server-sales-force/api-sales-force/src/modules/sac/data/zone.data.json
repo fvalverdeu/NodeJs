@@ -1,0 +1,8636 @@
+[
+  {
+    "idzone": "2",
+    "code": "0923",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "3",
+    "code": "1128",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "7",
+    "code": "0336",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "8",
+    "code": "0338",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "11",
+    "code": "0213",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "12",
+    "code": "0209",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "13",
+    "code": "0120",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "15",
+    "code": "0103",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "16",
+    "code": "0110",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "20",
+    "code": "1119",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "21",
+    "code": "1123",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "25",
+    "code": "0309",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "26",
+    "code": "0232",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "31",
+    "code": "0106",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "33",
+    "code": "0207",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "36",
+    "code": "1105",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "37",
+    "code": "1110",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "42",
+    "code": "0703",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "45",
+    "code": "0307",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "48",
+    "code": "1116",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "53",
+    "code": "0210",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "54",
+    "code": "0214",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "57",
+    "code": "0000",
+    "regionid": "12028",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "62",
+    "code": "0926",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "63",
+    "code": "1126",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "66",
+    "code": "1121",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "67",
+    "code": "0931",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "68",
+    "code": "9988",
+    "regionid": "12041",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "69",
+    "code": "1104",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "76",
+    "code": "0202",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "77",
+    "code": "0921",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "78",
+    "code": "0922",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "81",
+    "code": "0001",
+    "regionid": "12028",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "82",
+    "code": "1122",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "87",
+    "code": "0208",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "88",
+    "code": "0301",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "89",
+    "code": "0302",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "92",
+    "code": "0920",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "94",
+    "code": "0204",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "96",
+    "code": "0934",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "100",
+    "code": "8888",
+    "regionid": "12042",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "101",
+    "code": "0932",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "102",
+    "code": "0933",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "109",
+    "code": "0339",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "110",
+    "code": "0319",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "112",
+    "code": "0306",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "116",
+    "code": "0924",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "117",
+    "code": "1117",
+    "regionid": "12039",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "118",
+    "code": "0927",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "120",
+    "code": "0702",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "122",
+    "code": "0337",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "124",
+    "code": "0318",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "132",
+    "code": "0925",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "134",
+    "code": "0002",
+    "regionid": "12028",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "135",
+    "code": "0243",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "137",
+    "code": "0242",
+    "regionid": "12030",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "138",
+    "code": "0928",
+    "regionid": "12037",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "139",
+    "code": "0340",
+    "regionid": "12031",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "142",
+    "code": "0743",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "143",
+    "code": "0748",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "144",
+    "code": "0133",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "145",
+    "code": "0141",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "146",
+    "code": "0744",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "147",
+    "code": "0747",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "148",
+    "code": "0144",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "149",
+    "code": "0145",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "150",
+    "code": "0749",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "151",
+    "code": "0132",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "152",
+    "code": "0148",
+    "regionid": "12029",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "153",
+    "code": "0745",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "154",
+    "code": "0741",
+    "regionid": "12035",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "156",
+    "code": "1312",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "157",
+    "code": "1316",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "158",
+    "code": "1321",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "159",
+    "code": "1334",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "160",
+    "code": "1322",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "161",
+    "code": "1310",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "162",
+    "code": "1311",
+    "regionid": "12044",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12105",
+    "code": "1315",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12106",
+    "code": "1314",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12107",
+    "code": "1512",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12108",
+    "code": "1209",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12109",
+    "code": "1201",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12110",
+    "code": "1212",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12111",
+    "code": "1713",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12112",
+    "code": "1709",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12113",
+    "code": "1710",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12114",
+    "code": "1411",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12115",
+    "code": "1408",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12116",
+    "code": "1311",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12117",
+    "code": "1402",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12118",
+    "code": "1525",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12119",
+    "code": "1203",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12120",
+    "code": "1215",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12121",
+    "code": "1208",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12122",
+    "code": "1109",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12124",
+    "code": "1307",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12125",
+    "code": "1403",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12126",
+    "code": "1321",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12127",
+    "code": "1510",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12128",
+    "code": "1613",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12129",
+    "code": "1702",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12130",
+    "code": "1607",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12131",
+    "code": "1608",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12132",
+    "code": "1604",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12133",
+    "code": "1522",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12135",
+    "code": "9999",
+    "regionid": "12023",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "12136",
+    "code": "1420",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12137",
+    "code": "1410",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12138",
+    "code": "1312",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12139",
+    "code": "1703",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12140",
+    "code": "1704",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12141",
+    "code": "1205",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12142",
+    "code": "1112",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12144",
+    "code": "0000",
+    "regionid": "12014",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "12145",
+    "code": "1407",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12146",
+    "code": "1313",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12147",
+    "code": "1404",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12148",
+    "code": "1518",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12149",
+    "code": "1511",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12150",
+    "code": "1611",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12151",
+    "code": "1612",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12152",
+    "code": "1605",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12153",
+    "code": "1603",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12154",
+    "code": "1524",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12155",
+    "code": "1214",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12156",
+    "code": "1113",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12157",
+    "code": "1101",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12158",
+    "code": "1110",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12159",
+    "code": "1705",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12160",
+    "code": "1706",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12161",
+    "code": "9988",
+    "regionid": "12023",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "12163",
+    "code": "1310",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12164",
+    "code": "1323",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12165",
+    "code": "1514",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12166",
+    "code": "1610",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12167",
+    "code": "1103",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12168",
+    "code": "1104",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12169",
+    "code": "1105",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12170",
+    "code": "1206",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12171",
+    "code": "1220",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12172",
+    "code": "1207",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12173",
+    "code": "1115",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12174",
+    "code": "1107",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12175",
+    "code": "1116",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12176",
+    "code": "0001",
+    "regionid": "12014",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "12177",
+    "code": "8888",
+    "regionid": "12022",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "12178",
+    "code": "1708",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12179",
+    "code": "1316",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12180",
+    "code": "1309",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12181",
+    "code": "1401",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12182",
+    "code": "1319",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12183",
+    "code": "1322",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12184",
+    "code": "1513",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12185",
+    "code": "1515",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12186",
+    "code": "1601",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12187",
+    "code": "1521",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12189",
+    "code": "1106",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12190",
+    "code": "1108",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12191",
+    "code": "1202",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12193",
+    "code": "1714",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12194",
+    "code": "1707",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12195",
+    "code": "1711",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12196",
+    "code": "1412",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12197",
+    "code": "1421",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12198",
+    "code": "1406",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12199",
+    "code": "1320",
+    "regionid": "12017",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "12200",
+    "code": "1509",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12201",
+    "code": "1701",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12202",
+    "code": "1606",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12203",
+    "code": "1609",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12204",
+    "code": "1602",
+    "regionid": "12020",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "12205",
+    "code": "1523",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12206",
+    "code": "1102",
+    "regionid": "12015",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "12209",
+    "code": "1716",
+    "regionid": "12021",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "12210",
+    "code": "1405",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "12211",
+    "code": "1221",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12212",
+    "code": "1516",
+    "regionid": "12019",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "12213",
+    "code": "1222",
+    "regionid": "12016",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "12214",
+    "code": "1413",
+    "regionid": "12018",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "2",
+    "code": "1508",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "3",
+    "code": "1511",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "4",
+    "code": "2002",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "5",
+    "code": "1512",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "6",
+    "code": "1812",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "7",
+    "code": "1917",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "8",
+    "code": "2014",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "9",
+    "code": "1518",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "10",
+    "code": "0428",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "13",
+    "code": "2804",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "15",
+    "code": "2808",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "16",
+    "code": "2420",
+    "regionid": "58",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "17",
+    "code": "2604",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "19",
+    "code": "2611",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "20",
+    "code": "8888",
+    "regionid": "63",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "21",
+    "code": "0302",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "22",
+    "code": "0427",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "23",
+    "code": "0113",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "24",
+    "code": "0116",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "26",
+    "code": "0519",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "28",
+    "code": "0803",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "30",
+    "code": "0514",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "31",
+    "code": "0515",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "32",
+    "code": "0820",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "33",
+    "code": "1008",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "34",
+    "code": "1104",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "36",
+    "code": "1002",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "37",
+    "code": "1405",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "38",
+    "code": "1210",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "39",
+    "code": "1226",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "40",
+    "code": "1229",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "41",
+    "code": "1203",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "42",
+    "code": "1318",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "43",
+    "code": "1206",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "44",
+    "code": "1931",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "45",
+    "code": "1514",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "46",
+    "code": "1515",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "47",
+    "code": "1925",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "48",
+    "code": "1823",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "49",
+    "code": "2230",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "50",
+    "code": "2816",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "51",
+    "code": "2605",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "53",
+    "code": "0000",
+    "regionid": "38",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "54",
+    "code": "0104",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "55",
+    "code": "0202",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "56",
+    "code": "0405",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "57",
+    "code": "0411",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "58",
+    "code": "0311",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "59",
+    "code": "0312",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "60",
+    "code": "0421",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "61",
+    "code": "0314",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "62",
+    "code": "0417",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "63",
+    "code": "0123",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "64",
+    "code": "0316",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "65",
+    "code": "0522",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "66",
+    "code": "0801",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "67",
+    "code": "0703",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "68",
+    "code": "0511",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "69",
+    "code": "0704",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "70",
+    "code": "0705",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "71",
+    "code": "0722",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "72",
+    "code": "0615",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "73",
+    "code": "0708",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "74",
+    "code": "0616",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "75",
+    "code": "1110",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "76",
+    "code": "0920",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "78",
+    "code": "1019",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "79",
+    "code": "1001",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "80",
+    "code": "1212",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "81",
+    "code": "1412",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "82",
+    "code": "1314",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "83",
+    "code": "1409",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "84",
+    "code": "1319",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "85",
+    "code": "1207",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "86",
+    "code": "1510",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "87",
+    "code": "2017",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "88",
+    "code": "2013",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "89",
+    "code": "1817",
+    "regionid": "54",
+  "regioncode": "18"
+  },
+  {
+    "idzone": "90",
+    "code": "2004",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "92",
+    "code": "1802",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "93",
+    "code": "2203",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "94",
+    "code": "2802",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "96",
+    "code": "2616",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "97",
+    "code": "2617",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "99",
+    "code": "9999",
+    "regionid": "64",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "100",
+    "code": "0108",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "101",
+    "code": "0304",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "102",
+    "code": "0718",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "103",
+    "code": "0626",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "104",
+    "code": "0627",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "105",
+    "code": "0630",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "106",
+    "code": "0512",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "107",
+    "code": "0513",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "108",
+    "code": "0614",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "109",
+    "code": "0620",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "110",
+    "code": "1028",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "111",
+    "code": "1030",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "112",
+    "code": "1031",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "113",
+    "code": "0824",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "114",
+    "code": "1011",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "116",
+    "code": "1109",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "117",
+    "code": "1027",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "118",
+    "code": "1114",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "119",
+    "code": "1201",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "120",
+    "code": "1416",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "121",
+    "code": "1205",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "122",
+    "code": "1507",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "123",
+    "code": "2001",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "124",
+    "code": "1811",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "126",
+    "code": "2229",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "127",
+    "code": "2212",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "128",
+    "code": "2215",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "130",
+    "code": "2231",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "132",
+    "code": "2417",
+    "regionid": "58",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "133",
+    "code": "2625",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "135",
+    "code": "2613",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "136",
+    "code": "2819",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "138",
+    "code": "0101",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "139",
+    "code": "0102",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "140",
+    "code": "0103",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "141",
+    "code": "0203",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "143",
+    "code": "0204",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "144",
+    "code": "0205",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "145",
+    "code": "0307",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "146",
+    "code": "0426",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "147",
+    "code": "0216",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "148",
+    "code": "0218",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "149",
+    "code": "0717",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "151",
+    "code": "0709",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "153",
+    "code": "0711",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "154",
+    "code": "0916",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "155",
+    "code": "0822",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "156",
+    "code": "0917",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "157",
+    "code": "0823",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "158",
+    "code": "1103",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "159",
+    "code": "1106",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "160",
+    "code": "1107",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "165",
+    "code": "1026",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "166",
+    "code": "0914",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "167",
+    "code": "1404",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "168",
+    "code": "1308",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "169",
+    "code": "1117",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "170",
+    "code": "1228",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "171",
+    "code": "1421",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "172",
+    "code": "1417",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "174",
+    "code": "1410",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "175",
+    "code": "1804",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "176",
+    "code": "1910",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "177",
+    "code": "2008",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "178",
+    "code": "2011",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "179",
+    "code": "1815",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "180",
+    "code": "1918",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "181",
+    "code": "1926",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "183",
+    "code": "2226",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "184",
+    "code": "2233",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "187",
+    "code": "2623",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "188",
+    "code": "2606",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "189",
+    "code": "2610",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "190",
+    "code": "0324",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "193",
+    "code": "0112",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "194",
+    "code": "0214",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "195",
+    "code": "0313",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "196",
+    "code": "0418",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "197",
+    "code": "0224",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "198",
+    "code": "0520",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "199",
+    "code": "0502",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "200",
+    "code": "0805",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "201",
+    "code": "0813",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "202",
+    "code": "0517",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "207",
+    "code": "1301",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "208",
+    "code": "1303",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "209",
+    "code": "1930",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "210",
+    "code": "1912",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "212",
+    "code": "2006",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "213",
+    "code": "1513",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "214",
+    "code": "1816",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "215",
+    "code": "1112",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "216",
+    "code": "2227",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "217",
+    "code": "2023",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "218",
+    "code": "2201",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "219",
+    "code": "2615",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "221",
+    "code": "2408",
+    "regionid": "58",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "222",
+    "code": "2817",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "226",
+    "code": "0325",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "227",
+    "code": "0326",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "228",
+    "code": "0306",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "229",
+    "code": "0412",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "230",
+    "code": "0213",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "231",
+    "code": "0114",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "232",
+    "code": "0215",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "233",
+    "code": "0407",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "234",
+    "code": "0117",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "235",
+    "code": "0318",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "236",
+    "code": "0430",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "237",
+    "code": "0814",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "238",
+    "code": "0613",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "239",
+    "code": "0710",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "240",
+    "code": "0821",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "242",
+    "code": "1009",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "243",
+    "code": "1014",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "245",
+    "code": "1230",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "246",
+    "code": "1316",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "247",
+    "code": "1414",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "248",
+    "code": "1208",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "249",
+    "code": "1305",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "250",
+    "code": "1402",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "251",
+    "code": "1803",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "252",
+    "code": "1806",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "253",
+    "code": "1913",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "254",
+    "code": "1915",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "255",
+    "code": "1923",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "256",
+    "code": "1516",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "257",
+    "code": "1818",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "258",
+    "code": "1821",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "259",
+    "code": "1519",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "262",
+    "code": "2228",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "264",
+    "code": "2225",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "265",
+    "code": "2614",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "266",
+    "code": "2806",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "267",
+    "code": "2809",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "268",
+    "code": "2234",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "270",
+    "code": "2813",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "271",
+    "code": "2814",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "274",
+    "code": "2612",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "275",
+    "code": "0303",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "276",
+    "code": "0212",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "277",
+    "code": "0420",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "278",
+    "code": "0115",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "279",
+    "code": "0315",
+    "regionid": "41",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "280",
+    "code": "0624",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "281",
+    "code": "0625",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "282",
+    "code": "0720",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "283",
+    "code": "0721",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "284",
+    "code": "0504",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "285",
+    "code": "0524",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "286",
+    "code": "0611",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "287",
+    "code": "0612",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "288",
+    "code": "0619",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "289",
+    "code": "0622",
+    "regionid": "44",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "290",
+    "code": "0713",
+    "regionid": "45",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "292",
+    "code": "1029",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "293",
+    "code": "1006",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "294",
+    "code": "1007",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "295",
+    "code": "1012",
+    "regionid": "48",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "298",
+    "code": "0926",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "299",
+    "code": "1311",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "300",
+    "code": "1504",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "301",
+    "code": "1202",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "302",
+    "code": "1401",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "303",
+    "code": "1509",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "304",
+    "code": "1916",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "305",
+    "code": "2021",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "307",
+    "code": "1928",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "309",
+    "code": "2202",
+    "regionid": "57",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "311",
+    "code": "2407",
+    "regionid": "58",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "312",
+    "code": "2622",
+    "regionid": "59",
+    "regioncode": "26"
+  },
+  {
+    "idzone": "314",
+    "code": "2807",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "316",
+    "code": "2815",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "317",
+    "code": "2810",
+    "regionid": "61",
+    "regioncode": "28"
+  },
+  {
+    "idzone": "318",
+    "code": "0001",
+    "regionid": "38",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "319",
+    "code": "0201",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "320",
+    "code": "0419",
+    "regionid": "42",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "322",
+    "code": "0125",
+    "regionid": "39",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "323",
+    "code": "0220",
+    "regionid": "40",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "324",
+    "code": "0507",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "325",
+    "code": "0516",
+    "regionid": "43",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "326",
+    "code": "0918",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "328",
+    "code": "1111",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "329",
+    "code": "1105",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "330",
+    "code": "1307",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "331",
+    "code": "1407",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "332",
+    "code": "1309",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "333",
+    "code": "1408",
+    "regionid": "52",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "334",
+    "code": "1116",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "335",
+    "code": "1227",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "336",
+    "code": "1310",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "337",
+    "code": "1302",
+    "regionid": "51",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "338",
+    "code": "1209",
+    "regionid": "50",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "340",
+    "code": "0834",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "342",
+    "code": "0835",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "344",
+    "code": "0935",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "348",
+    "code": "0932",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "349",
+    "code": "0934",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "351",
+    "code": "0933",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "354",
+    "code": "0931",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "355",
+    "code": "0833",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "356",
+    "code": "0002",
+    "regionid": "38",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "357",
+    "code": "2910",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "358",
+    "code": "2911",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "359",
+    "code": "2908",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "360",
+    "code": "2912",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "361",
+    "code": "2907",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "362",
+    "code": "2914",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "363",
+    "code": "2905",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "364",
+    "code": "2901",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "365",
+    "code": "2909",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "366",
+    "code": "2902",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "367",
+    "code": "2913",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "368",
+    "code": "0836",
+    "regionid": "46",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "369",
+    "code": "2903",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "370",
+    "code": "2904",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "372",
+    "code": "0003",
+    "regionid": "38",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "373",
+    "code": "2402",
+    "regionid": "58",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "374",
+    "code": "2003",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "377",
+    "code": "1101",
+    "regionid": "49",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "378",
+    "code": "2915",
+    "regionid": "66",
+    "regioncode": "29"
+  },
+  {
+    "idzone": "379",
+    "code": "0936",
+    "regionid": "47",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "381",
+    "code": "1521",
+    "regionid": "53",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "382",
+    "code": "1932",
+    "regionid": "55",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "383",
+    "code": "1825",
+    "regionid": "54",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "384",
+    "code": "2025",
+    "regionid": "56",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2053",
+    "code": "0000",
+    "regionid": "2005",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "2101",
+    "code": "0801",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2102",
+    "code": "0802",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2103",
+    "code": "0803",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2105",
+    "code": "0819",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2106",
+    "code": "0902",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "2107",
+    "code": "0903",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "2109",
+    "code": "0905",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "2110",
+    "code": "0906",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "2111",
+    "code": "1002",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2112",
+    "code": "1003",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2114",
+    "code": "1005",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2115",
+    "code": "1006",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2121",
+    "code": "0001",
+    "regionid": "2005",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "20003",
+    "code": "0821",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20004",
+    "code": "0822",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20005",
+    "code": "0823",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20006",
+    "code": "0824",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20007",
+    "code": "0825",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20008",
+    "code": "0826",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20009",
+    "code": "0827",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20010",
+    "code": "0828",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20011",
+    "code": "0907",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20012",
+    "code": "0908",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20013",
+    "code": "0909",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20014",
+    "code": "0910",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20016",
+    "code": "0912",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20017",
+    "code": "0913",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20028",
+    "code": "1007",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20029",
+    "code": "1008",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20030",
+    "code": "1009",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20031",
+    "code": "1011",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20032",
+    "code": "1012",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20033",
+    "code": "1013",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20035",
+    "code": "1001",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20054",
+    "code": "0915",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20055",
+    "code": "0829",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20056",
+    "code": "1015",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "20058",
+    "code": "0830",
+    "regionid": "2008",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "20059",
+    "code": "0916",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20060",
+    "code": "0917",
+    "regionid": "2009",
+    "regioncode": "09"
+  },
+  {
+    "idzone": "20061",
+    "code": "1016",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2",
+    "code": "0328",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "3",
+    "code": "0121",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "4",
+    "code": "0132",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "5",
+    "code": "0208",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "6",
+    "code": "0422",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "7",
+    "code": "0122",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "9",
+    "code": "0306",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "10",
+    "code": "0324",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "12",
+    "code": "0217",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "13",
+    "code": "0421",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "14",
+    "code": "0001",
+    "regionid": "2",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "15",
+    "code": "0330",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "16",
+    "code": "0000",
+    "regionid": "2",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "17",
+    "code": "0304",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "18",
+    "code": "0318",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "20",
+    "code": "0205",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "21",
+    "code": "0219",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "22",
+    "code": "0212",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "23",
+    "code": "0420",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "24",
+    "code": "0414",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "25",
+    "code": "0221",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "26",
+    "code": "0325",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "27",
+    "code": "0408",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "29",
+    "code": "0120",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "30",
+    "code": "0115",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "31",
+    "code": "0323",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "32",
+    "code": "0301",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "33",
+    "code": "0302",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "36",
+    "code": "0218",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "37",
+    "code": "0409",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "39",
+    "code": "0326",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "42",
+    "code": "0320",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "43",
+    "code": "0129",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "45",
+    "code": "0211",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "46",
+    "code": "0207",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "47",
+    "code": "0417",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "48",
+    "code": "0225",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "49",
+    "code": "0227",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "50",
+    "code": "0228",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "51",
+    "code": "0214",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "52",
+    "code": "0418",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "53",
+    "code": "0419",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "54",
+    "code": "0224",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "55",
+    "code": "0329",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "56",
+    "code": "0407",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "57",
+    "code": "0116",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "58",
+    "code": "0123",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "59",
+    "code": "9988",
+    "regionid": "7",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "60",
+    "code": "8888",
+    "regionid": "8",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "61",
+    "code": "0327",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "62",
+    "code": "0406",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "63",
+    "code": "0109",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "64",
+    "code": "0128",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "66",
+    "code": "0415",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "68",
+    "code": "0331",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "69",
+    "code": "0332",
+    "regionid": "5",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "71",
+    "code": "0229",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "72",
+    "code": "0230",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "74",
+    "code": "0424",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "75",
+    "code": "0427",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "76",
+    "code": "0428",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "77",
+    "code": "0137",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "78",
+    "code": "0135",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "79",
+    "code": "0425",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "80",
+    "code": "0134",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "81",
+    "code": "0423",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "82",
+    "code": "0136",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "83",
+    "code": "0138",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "84",
+    "code": "0139",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "85",
+    "code": "0231",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "86",
+    "code": "0232",
+    "regionid": "4",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "87",
+    "code": "0140",
+    "regionid": "3",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "88",
+    "code": "0429",
+    "regionid": "6",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2053",
+    "code": "0000",
+    "regionid": "2005",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "2094",
+    "code": "0099",
+    "regionid": "2005",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "2357",
+    "code": "1611",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2376",
+    "code": "1605",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2416",
+    "code": "1612",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2443",
+    "code": "1606",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2498",
+    "code": "1625",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2501",
+    "code": "1629",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2508",
+    "code": "1627",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2520",
+    "code": "1631",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2521",
+    "code": "1618",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2522",
+    "code": "1633",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2525",
+    "code": "1617",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2526",
+    "code": "1632",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2529",
+    "code": "1630",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2531",
+    "code": "1620",
+    "regionid": "2017",
+    "regioncode": "16"
+  },
+  {
+    "idzone": "2532",
+    "code": "1726",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2533",
+    "code": "1724",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2534",
+    "code": "1725",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2537",
+    "code": "1728",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2523",
+    "code": "1723",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2446",
+    "code": "1713",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2447",
+    "code": "1720",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2458",
+    "code": "1722",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2476",
+    "code": "1712",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2405",
+    "code": "1721",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2378",
+    "code": "1714",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2362",
+    "code": "1710",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2364",
+    "code": "1715",
+    "regionid": "2018",
+    "regioncode": "17"
+  },
+  {
+    "idzone": "2381",
+    "code": "1819",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2417",
+    "code": "1822",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2477",
+    "code": "1816",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2392",
+    "code": "1817",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2460",
+    "code": "1815",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2448",
+    "code": "1818",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2427",
+    "code": "1813",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2428",
+    "code": "1814",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2539",
+    "code": "1805",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2540",
+    "code": "1806",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2541",
+    "code": "1807",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2512",
+    "code": "1829",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2483",
+    "code": "1824",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2493",
+    "code": "1827",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2496",
+    "code": "1826",
+    "regionid": "2019",
+    "regioncode": "18"
+  },
+  {
+    "idzone": "2497",
+    "code": "1920",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2491",
+    "code": "1912",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2495",
+    "code": "1919",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2513",
+    "code": "1921",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2517",
+    "code": "1925",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2519",
+    "code": "1927",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2503",
+    "code": "1922",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2504",
+    "code": "1923",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2430",
+    "code": "1905",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2432",
+    "code": "1916",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2394",
+    "code": "1915",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2418",
+    "code": "1906",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2407",
+    "code": "1911",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2382",
+    "code": "1918",
+    "regionid": "2020",
+    "regioncode": "19"
+  },
+  {
+    "idzone": "2383",
+    "code": "2012",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2370",
+    "code": "2021",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2408",
+    "code": "2016",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2409",
+    "code": "2020",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2419",
+    "code": "2010",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2420",
+    "code": "2011",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2396",
+    "code": "2017",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2397",
+    "code": "2019",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2433",
+    "code": "2013",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2434",
+    "code": "2018",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2452",
+    "code": "2024",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2475",
+    "code": "2022",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2481",
+    "code": "2015",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2535",
+    "code": "2002",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2524",
+    "code": "2001",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2530",
+    "code": "2003",
+    "regionid": "2021",
+    "regioncode": "20"
+  },
+  {
+    "idzone": "2472",
+    "code": "2110",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2453",
+    "code": "2113",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2435",
+    "code": "2104",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2398",
+    "code": "2114",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2478",
+    "code": "2109",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2462",
+    "code": "2116",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2421",
+    "code": "2105",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2422",
+    "code": "2111",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2423",
+    "code": "2115",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2424",
+    "code": "2118",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2411",
+    "code": "2119",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2371",
+    "code": "2103",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2372",
+    "code": "2112",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2385",
+    "code": "2102",
+    "regionid": "2022",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "2386",
+    "code": "2205",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2387",
+    "code": "2219",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2373",
+    "code": "2210",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2374",
+    "code": "2214",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2375",
+    "code": "2217",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2412",
+    "code": "2209",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2425",
+    "code": "2212",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2464",
+    "code": "2203",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2465",
+    "code": "2213",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2466",
+    "code": "2218",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2436",
+    "code": "2201",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2438",
+    "code": "2206",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2439",
+    "code": "2216",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2482",
+    "code": "2211",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2489",
+    "code": "2220",
+    "regionid": "2023",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "2542",
+    "code": "2308",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2442",
+    "code": "2316",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2454",
+    "code": "2317",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2455",
+    "code": "2318",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2467",
+    "code": "2303",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2468",
+    "code": "2305",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2471",
+    "code": "2319",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2479",
+    "code": "2302",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2399",
+    "code": "2307",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2413",
+    "code": "2301",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2414",
+    "code": "2320",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2388",
+    "code": "2306",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "2389",
+    "code": "2310",
+    "regionid": "2024",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20590",
+    "code": "1116",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20591",
+    "code": "1213",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20593",
+    "code": "1105",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20594",
+    "code": "1108",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20596",
+    "code": "1516",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20597",
+    "code": "8888",
+    "regionid": "20085",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "20598",
+    "code": "1305",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20599",
+    "code": "1312",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20600",
+    "code": "1302",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20601",
+    "code": "1314",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20602",
+    "code": "1315",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20603",
+    "code": "1416",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20604",
+    "code": "1417",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20606",
+    "code": "1214",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20607",
+    "code": "1202",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20608",
+    "code": "1208",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20609",
+    "code": "1106",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20610",
+    "code": "1107",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20611",
+    "code": "1508",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20612",
+    "code": "1404",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20615",
+    "code": "1110",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20616",
+    "code": "0000",
+    "regionid": "20080",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "20617",
+    "code": "1509",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20618",
+    "code": "8801",
+    "regionid": "20085",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "20619",
+    "code": "1307",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20620",
+    "code": "1216",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20621",
+    "code": "1217",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20622",
+    "code": "1311",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20623",
+    "code": "1414",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20624",
+    "code": "1401",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20625",
+    "code": "1104",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20626",
+    "code": "1507",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20627",
+    "code": "1517",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20628",
+    "code": "1518",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20630",
+    "code": "1406",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20631",
+    "code": "1420",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20633",
+    "code": "1313",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20634",
+    "code": "1205",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20635",
+    "code": "1309",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20636",
+    "code": "1218",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20638",
+    "code": "1303",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20639",
+    "code": "1207",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20640",
+    "code": "1210",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20641",
+    "code": "1101",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20642",
+    "code": "1512",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20643",
+    "code": "1515",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20644",
+    "code": "1502",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20645",
+    "code": "1407",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20647",
+    "code": "1301",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20648",
+    "code": "1304",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20649",
+    "code": "1504",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20650",
+    "code": "1102",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20651",
+    "code": "1113",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20652",
+    "code": "1103",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20653",
+    "code": "1111",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20654",
+    "code": "0001",
+    "regionid": "20080",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "20655",
+    "code": "9999",
+    "regionid": "20087",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "20656",
+    "code": "1306",
+    "regionid": "20082",
+    "regioncode": "13"
+  },
+  {
+    "idzone": "20657",
+    "code": "1408",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20659",
+    "code": "1115",
+    "regionid": "20081",
+    "regioncode": "11"
+  },
+  {
+    "idzone": "20660",
+    "code": "1215",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20661",
+    "code": "1209",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20662",
+    "code": "1212",
+    "regionid": "20086",
+    "regioncode": "12"
+  },
+  {
+    "idzone": "20663",
+    "code": "1510",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20664",
+    "code": "1511",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20666",
+    "code": "1418",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20667",
+    "code": "1419",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "20668",
+    "code": "1501",
+    "regionid": "20084",
+    "regioncode": "15"
+  },
+  {
+    "idzone": "20670",
+    "code": "1415",
+    "regionid": "20083",
+    "regioncode": "14"
+  },
+  {
+    "idzone": "2",
+    "code": "8213",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "3",
+    "code": "9701",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "4",
+    "code": "9704",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "12",
+    "code": "5212",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "14",
+    "code": "5311",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "15",
+    "code": "5403",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "20",
+    "code": "6102",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "21",
+    "code": "6108",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "23",
+    "code": "6203",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "24",
+    "code": "6212",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "25",
+    "code": "6301",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "27",
+    "code": "6502",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "33",
+    "code": "7109",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "34",
+    "code": "7212",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "35",
+    "code": "7307",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "36",
+    "code": "7407",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "37",
+    "code": "7414",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "39",
+    "code": "8008",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "40",
+    "code": "8103",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "41",
+    "code": "8107",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "43",
+    "code": "0001",
+    "regionid": "2",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "44",
+    "code": "9988",
+    "regionid": "24",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "46",
+    "code": "5004",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "47",
+    "code": "5009",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "48",
+    "code": "5012",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "49",
+    "code": "5105",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "50",
+    "code": "5107",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "51",
+    "code": "5199",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "52",
+    "code": "5203",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "53",
+    "code": "5206",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "54",
+    "code": "5302",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "56",
+    "code": "5313",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "57",
+    "code": "5406",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "59",
+    "code": "5509",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "60",
+    "code": "5598",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "64",
+    "code": "6107",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "65",
+    "code": "6211",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "66",
+    "code": "6215",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "67",
+    "code": "6505",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "68",
+    "code": "6512",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "74",
+    "code": "7104",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "75",
+    "code": "7111",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "76",
+    "code": "7114",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "77",
+    "code": "7205",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "79",
+    "code": "7301",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "80",
+    "code": "7308",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "81",
+    "code": "7310",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "82",
+    "code": "7415",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "83",
+    "code": "8001",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "84",
+    "code": "8104",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "85",
+    "code": "8204",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "86",
+    "code": "8205",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "87",
+    "code": "8209",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "88",
+    "code": "0000",
+    "regionid": "2",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "89",
+    "code": "5111",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "90",
+    "code": "5115",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "92",
+    "code": "5301",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "93",
+    "code": "5308",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "94",
+    "code": "5405",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "95",
+    "code": "5410",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "96",
+    "code": "5505",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "97",
+    "code": "5507",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "104",
+    "code": "6116",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "107",
+    "code": "6320",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "108",
+    "code": "6501",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "109",
+    "code": "6503",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "110",
+    "code": "6516",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "113",
+    "code": "7107",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "114",
+    "code": "7210",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "115",
+    "code": "7213",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "116",
+    "code": "7215",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "117",
+    "code": "7306",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "119",
+    "code": "7398",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "120",
+    "code": "7401",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "121",
+    "code": "7410",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "122",
+    "code": "8003",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "123",
+    "code": "8019",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "124",
+    "code": "8110",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "126",
+    "code": "5104",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "127",
+    "code": "5109",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "128",
+    "code": "5207",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "129",
+    "code": "5215",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "130",
+    "code": "5216",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "131",
+    "code": "5304",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "132",
+    "code": "5305",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "133",
+    "code": "5309",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "135",
+    "code": "5399",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "137",
+    "code": "5404",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "138",
+    "code": "5408",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "139",
+    "code": "5411",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "140",
+    "code": "5412",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "141",
+    "code": "5413",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "150",
+    "code": "6201",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "152",
+    "code": "6213",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "153",
+    "code": "6302",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "155",
+    "code": "6309",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "156",
+    "code": "6313",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "157",
+    "code": "6318",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "158",
+    "code": "6321",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "159",
+    "code": "6325",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "160",
+    "code": "6504",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "161",
+    "code": "6511",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "162",
+    "code": "6514",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "165",
+    "code": "7113",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "166",
+    "code": "7201",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "167",
+    "code": "7211",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "168",
+    "code": "7302",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "169",
+    "code": "7399",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "170",
+    "code": "7412",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "171",
+    "code": "8102",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "172",
+    "code": "8211",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "173",
+    "code": "8218",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "174",
+    "code": "9705",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "175",
+    "code": "8888",
+    "regionid": "25",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "176",
+    "code": "5001",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "177",
+    "code": "5113",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "178",
+    "code": "5205",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "180",
+    "code": "5211",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "181",
+    "code": "5213",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "183",
+    "code": "5314",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "184",
+    "code": "5402",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "190",
+    "code": "6111",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "191",
+    "code": "6113",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "192",
+    "code": "6204",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "193",
+    "code": "6205",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "194",
+    "code": "6210",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "195",
+    "code": "6214",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "196",
+    "code": "6307",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "197",
+    "code": "6311",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "198",
+    "code": "6506",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "199",
+    "code": "6508",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "203",
+    "code": "7115",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "204",
+    "code": "7202",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "206",
+    "code": "7209",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "207",
+    "code": "7304",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "209",
+    "code": "7409",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "210",
+    "code": "8013",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "211",
+    "code": "8106",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "212",
+    "code": "8109",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "213",
+    "code": "8210",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "214",
+    "code": "8216",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "218",
+    "code": "5108",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "219",
+    "code": "5112",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "220",
+    "code": "5114",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "222",
+    "code": "5210",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "223",
+    "code": "5303",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "225",
+    "code": "5508",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "234",
+    "code": "6507",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "237",
+    "code": "7102",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "238",
+    "code": "7112",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "239",
+    "code": "7110",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "240",
+    "code": "7405",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "241",
+    "code": "8005",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "242",
+    "code": "8009",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "243",
+    "code": "8017",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "244",
+    "code": "8101",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "245",
+    "code": "8111",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "246",
+    "code": "8203",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "247",
+    "code": "8208",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "248",
+    "code": "8114",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "249",
+    "code": "8115",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "250",
+    "code": "8117",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "251",
+    "code": "8201",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "252",
+    "code": "8212",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "253",
+    "code": "5007",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "254",
+    "code": "5414",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "256",
+    "code": "5511",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "257",
+    "code": "5597",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "261",
+    "code": "6106",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "262",
+    "code": "6109",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "263",
+    "code": "6112",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "264",
+    "code": "6115",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "265",
+    "code": "6206",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "266",
+    "code": "6216",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "267",
+    "code": "6317",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "268",
+    "code": "6322",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "269",
+    "code": "6323",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "270",
+    "code": "6513",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "274",
+    "code": "7108",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "275",
+    "code": "7199",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "276",
+    "code": "7206",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "277",
+    "code": "7214",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "278",
+    "code": "7216",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "279",
+    "code": "7305",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "280",
+    "code": "7404",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "281",
+    "code": "7413",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "282",
+    "code": "8010",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "284",
+    "code": "8202",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "285",
+    "code": "9703",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "288",
+    "code": "5010",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "289",
+    "code": "5011",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "290",
+    "code": "5106",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "291",
+    "code": "5110",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "292",
+    "code": "5307",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "293",
+    "code": "5409",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "295",
+    "code": "5514",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "299",
+    "code": "6104",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "301",
+    "code": "6324",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "302",
+    "code": "7207",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "303",
+    "code": "7303",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "304",
+    "code": "7397",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "306",
+    "code": "7403",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "307",
+    "code": "7498",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "309",
+    "code": "8012",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "310",
+    "code": "8014",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "311",
+    "code": "8016",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "312",
+    "code": "8108",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "313",
+    "code": "8112",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "314",
+    "code": "8113",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "315",
+    "code": "8116",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "316",
+    "code": "8207",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "317",
+    "code": "8214",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "318",
+    "code": "9706",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "320",
+    "code": "9707",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "322",
+    "code": "5315",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "323",
+    "code": "5415",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "325",
+    "code": "5516",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "326",
+    "code": "5517",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "327",
+    "code": "5218",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "329",
+    "code": "5219",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "330",
+    "code": "5220",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "331",
+    "code": "5515",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "332",
+    "code": "5019",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "334",
+    "code": "5519",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "336",
+    "code": "5417",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "337",
+    "code": "5018",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "339",
+    "code": "5020",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "340",
+    "code": "5520",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "341",
+    "code": "5221",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "342",
+    "code": "9710",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "343",
+    "code": "9720",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "344",
+    "code": "9732",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "345",
+    "code": "9731",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "346",
+    "code": "5521",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "347",
+    "code": "5317",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "348",
+    "code": "8118",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "349",
+    "code": "5318",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "351",
+    "code": "7416",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "352",
+    "code": "6118",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "353",
+    "code": "6119",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "356",
+    "code": "6121",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "357",
+    "code": "6218",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "358",
+    "code": "6120",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "360",
+    "code": "6117",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "361",
+    "code": "6219",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "362",
+    "code": "6217",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "363",
+    "code": "7417",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "365",
+    "code": "8020",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "367",
+    "code": "7217",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "368",
+    "code": "7116",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "369",
+    "code": "7219",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "370",
+    "code": "7121",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "371",
+    "code": "7120",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "372",
+    "code": "7118",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "373",
+    "code": "7119",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "374",
+    "code": "7117",
+    "regionid": "16",
+    "regioncode": "71"
+  },
+  {
+    "idzone": "375",
+    "code": "7218",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "376",
+    "code": "6327",
+    "regionid": "13",
+    "regioncode": "63"
+  },
+  {
+    "idzone": "377",
+    "code": "5222",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "378",
+    "code": "8022",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "379",
+    "code": "8021",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "380",
+    "code": "9733",
+    "regionid": "23",
+    "regioncode": "97"
+  },
+  {
+    "idzone": "381",
+    "code": "7312",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "382",
+    "code": "8119",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "383",
+    "code": "8024",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "384",
+    "code": "5120",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "385",
+    "code": "5223",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "387",
+    "code": "8120",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "388",
+    "code": "5418",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "389",
+    "code": "7418",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "391",
+    "code": "6526",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "392",
+    "code": "8025",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "393",
+    "code": "6222",
+    "regionid": "12",
+    "regioncode": "62"
+  },
+  {
+    "idzone": "394",
+    "code": "8220",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "396",
+    "code": "6525",
+    "regionid": "14",
+    "regioncode": "65"
+  },
+  {
+    "idzone": "397",
+    "code": "8023",
+    "regionid": "20",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "398",
+    "code": "5121",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "399",
+    "code": "5522",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "400",
+    "code": "6123",
+    "regionid": "11",
+    "regioncode": "61"
+  },
+  {
+    "idzone": "401",
+    "code": "7220",
+    "regionid": "17",
+    "regioncode": "72"
+  },
+  {
+    "idzone": "402",
+    "code": "8221",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "403",
+    "code": "5320",
+    "regionid": "6",
+    "regioncode": "53"
+  },
+  {
+    "idzone": "404",
+    "code": "8122",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "405",
+    "code": "8121",
+    "regionid": "21",
+    "regioncode": "81"
+  },
+  {
+    "idzone": "406",
+    "code": "7313",
+    "regionid": "18",
+    "regioncode": "73"
+  },
+  {
+    "idzone": "407",
+    "code": "5419",
+    "regionid": "7",
+    "regioncode": "54"
+  },
+  {
+    "idzone": "408",
+    "code": "5122",
+    "regionid": "4",
+    "regioncode": "51"
+  },
+  {
+    "idzone": "409",
+    "code": "7419",
+    "regionid": "19",
+    "regioncode": "74"
+  },
+  {
+    "idzone": "410",
+    "code": "8222",
+    "regionid": "22",
+    "regioncode": "82"
+  },
+  {
+    "idzone": "411",
+    "code": "5224",
+    "regionid": "5",
+    "regioncode": "52"
+  },
+  {
+    "idzone": "412",
+    "code": "5025",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "413",
+    "code": "5024",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "414",
+    "code": "5026",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "415",
+    "code": "5523",
+    "regionid": "8",
+    "regioncode": "55"
+  },
+  {
+    "idzone": "416",
+    "code": "5027",
+    "regionid": "3",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "417",
+    "code": "6607",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "418",
+    "code": "6604",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "419",
+    "code": "6601",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "420",
+    "code": "6608",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "421",
+    "code": "6606",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "422",
+    "code": "6602",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "423",
+    "code": "6605",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "424",
+    "code": "6603",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "425",
+    "code": "6610",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "426",
+    "code": "6612",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "427",
+    "code": "6611",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "428",
+    "code": "6609",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "429",
+    "code": "6613",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "430",
+    "code": "6614",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "431",
+    "code": "6615",
+    "regionid": "27",
+    "regioncode": "66"
+  },
+  {
+    "idzone": "2493",
+    "code": "0000",
+    "regionid": "2047",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "2494",
+    "code": "0001",
+    "regionid": "2047",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "2535",
+    "code": "3103",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2536",
+    "code": "3107",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2541",
+    "code": "3105",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2543",
+    "code": "3101",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2544",
+    "code": "3104",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2545",
+    "code": "3109",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2548",
+    "code": "3108",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2551",
+    "code": "3116",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2554",
+    "code": "3207",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2555",
+    "code": "3205",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2556",
+    "code": "3201",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2557",
+    "code": "3204",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2558",
+    "code": "3206",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2559",
+    "code": "3202",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2560",
+    "code": "3203",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2561",
+    "code": "3208",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2562",
+    "code": "3209",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2563",
+    "code": "3121",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2564",
+    "code": "3120",
+    "regionid": "2055",
+    "regioncode": "31"
+  },
+  {
+    "idzone": "2565",
+    "code": "3210",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2566",
+    "code": "3211",
+    "regionid": "2056",
+    "regioncode": "32"
+  },
+  {
+    "idzone": "2567",
+    "code": "3301",
+    "regionid": "2057",
+    "regioncode": "33"
+  },
+  {
+    "idzone": "2568",
+    "code": "3302",
+    "regionid": "2057",
+    "regioncode": "33"
+  },
+  {
+    "idzone": "2001",
+    "code": "2121",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2002",
+    "code": "2127",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2004",
+    "code": "2315",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2005",
+    "code": "3015",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2006",
+    "code": "3033",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2007",
+    "code": "3042",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2008",
+    "code": "3114",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2009",
+    "code": "3119",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2010",
+    "code": "5242",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2011",
+    "code": "5421",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2012",
+    "code": "6022",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2013",
+    "code": "6036",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2014",
+    "code": "6072",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2015",
+    "code": "6212",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2016",
+    "code": "6315",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2017",
+    "code": "6414",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2018",
+    "code": "6611",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2022",
+    "code": "1033",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2025",
+    "code": "1036",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2031",
+    "code": "1071",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2032",
+    "code": "1072",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2034",
+    "code": "1074",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2035",
+    "code": "1075",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2036",
+    "code": "1111",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2037",
+    "code": "1112",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2039",
+    "code": "1114",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2041",
+    "code": "1211",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2042",
+    "code": "1212",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2043",
+    "code": "1221",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2044",
+    "code": "1222",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2045",
+    "code": "1223",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2046",
+    "code": "1231",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2047",
+    "code": "1241",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2048",
+    "code": "1251",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2049",
+    "code": "1252",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2050",
+    "code": "1253",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2051",
+    "code": "1254",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2052",
+    "code": "1255",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2053",
+    "code": "1257",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2054",
+    "code": "1261",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2056",
+    "code": "1271",
+    "regionid": "2003",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "2075",
+    "code": "2111",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2076",
+    "code": "2112",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2077",
+    "code": "2122",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2078",
+    "code": "2123",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2079",
+    "code": "2125",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2081",
+    "code": "2128",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2082",
+    "code": "2129",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2083",
+    "code": "2131",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2085",
+    "code": "2141",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2086",
+    "code": "2311",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2088",
+    "code": "2313",
+    "regionid": "2013",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "2090",
+    "code": "3011",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2091",
+    "code": "3012",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2092",
+    "code": "3013",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2096",
+    "code": "3032",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2098",
+    "code": "3035",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2099",
+    "code": "3036",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2100",
+    "code": "3037",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2103",
+    "code": "3111",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2104",
+    "code": "3112",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2105",
+    "code": "3113",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2106",
+    "code": "3115",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2107",
+    "code": "3116",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2108",
+    "code": "3117",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2110",
+    "code": "3121",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2111",
+    "code": "3122",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2112",
+    "code": "3123",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2113",
+    "code": "3131",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2114",
+    "code": "3151",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2115",
+    "code": "3152",
+    "regionid": "2004",
+    "regioncode": "03"
+  },
+  {
+    "idzone": "2133",
+    "code": "4111",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2134",
+    "code": "4112",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2135",
+    "code": "4113",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2136",
+    "code": "4114",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2139",
+    "code": "4121",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2140",
+    "code": "4131",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2141",
+    "code": "4132",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2142",
+    "code": "4211",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2143",
+    "code": "4212",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2145",
+    "code": "4222",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2146",
+    "code": "4223",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2147",
+    "code": "4231",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2148",
+    "code": "4232",
+    "regionid": "2007",
+    "regioncode": "04"
+  },
+  {
+    "idzone": "2149",
+    "code": "5031",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2150",
+    "code": "5032",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2151",
+    "code": "5033",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2152",
+    "code": "5034",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2153",
+    "code": "5035",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2155",
+    "code": "5041",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2156",
+    "code": "5042",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2157",
+    "code": "5043",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2158",
+    "code": "5044",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2159",
+    "code": "5045",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2160",
+    "code": "5051",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2161",
+    "code": "5052",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2162",
+    "code": "5053",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2163",
+    "code": "5211",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2164",
+    "code": "5212",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2165",
+    "code": "5213",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2166",
+    "code": "5214",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2167",
+    "code": "5221",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2168",
+    "code": "5231",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2169",
+    "code": "5241",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2170",
+    "code": "5311",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2171",
+    "code": "5312",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2172",
+    "code": "5411",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2173",
+    "code": "5412",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2174",
+    "code": "5422",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2175",
+    "code": "5511",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2176",
+    "code": "5512",
+    "regionid": "2011",
+    "regioncode": "05"
+  },
+  {
+    "idzone": "2177",
+    "code": "6021",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2179",
+    "code": "6032",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2180",
+    "code": "6033",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2181",
+    "code": "6035",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2183",
+    "code": "6062",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2184",
+    "code": "6063",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2185",
+    "code": "6071",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2186",
+    "code": "6081",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2187",
+    "code": "6111",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2188",
+    "code": "6112",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2189",
+    "code": "6211",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2190",
+    "code": "6311",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2192",
+    "code": "6313",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2193",
+    "code": "6314",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2194",
+    "code": "6316",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2195",
+    "code": "6411",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2196",
+    "code": "6412",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2197",
+    "code": "6413",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2198",
+    "code": "6511",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2199",
+    "code": "6512",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2200",
+    "code": "6513",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2201",
+    "code": "6514",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2202",
+    "code": "7011",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2203",
+    "code": "7012",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2204",
+    "code": "7013",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2208",
+    "code": "7041",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2209",
+    "code": "7042",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2210",
+    "code": "7043",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2211",
+    "code": "7044",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2212",
+    "code": "7045",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2213",
+    "code": "7051",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2223",
+    "code": "7311",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2224",
+    "code": "7312",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2225",
+    "code": "7411",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2226",
+    "code": "7412",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2227",
+    "code": "7413",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2228",
+    "code": "7414",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2229",
+    "code": "7511",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2232",
+    "code": "8012",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2233",
+    "code": "8013",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2234",
+    "code": "8014",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2235",
+    "code": "8015",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2236",
+    "code": "8016",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2237",
+    "code": "8017",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2238",
+    "code": "8018",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2239",
+    "code": "8019",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2240",
+    "code": "8021",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2241",
+    "code": "8022",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2246",
+    "code": "8115",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2247",
+    "code": "8116",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2248",
+    "code": "8117",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2249",
+    "code": "8118",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2250",
+    "code": "8119",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2251",
+    "code": "8121",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2252",
+    "code": "8122",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2253",
+    "code": "8123",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2254",
+    "code": "8124",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2255",
+    "code": "8125",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2256",
+    "code": "8211",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2257",
+    "code": "8212",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2258",
+    "code": "8311",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2259",
+    "code": "8312",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2260",
+    "code": "8313",
+    "regionid": "2006",
+    "regioncode": "08"
+  },
+  {
+    "idzone": "2261",
+    "code": "9011",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2262",
+    "code": "9012",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2263",
+    "code": "9111",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2264",
+    "code": "9112",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2276",
+    "code": "8020",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2301",
+    "code": "6038",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2302",
+    "code": "3017",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2304",
+    "code": "5054",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2306",
+    "code": "7416",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2310",
+    "code": "8023",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2311",
+    "code": "6039",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2329",
+    "code": "8024",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2423",
+    "code": "6415",
+    "regionid": "2012",
+    "regioncode": "06"
+  },
+  {
+    "idzone": "2425",
+    "code": "9114",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2426",
+    "code": "9113",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2427",
+    "code": "9010",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2430",
+    "code": "7092",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2431",
+    "code": "7093",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2432",
+    "code": "7081",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2433",
+    "code": "1081",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2434",
+    "code": "7095",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2435",
+    "code": "7072",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2436",
+    "code": "1083",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2437",
+    "code": "1082",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2438",
+    "code": "7061",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2440",
+    "code": "1084",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2444",
+    "code": "7062",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2445",
+    "code": "7091",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2446",
+    "code": "7313",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2448",
+    "code": "7073",
+    "regionid": "2005",
+    "regioncode": "70"
+  },
+  {
+    "idzone": "2468",
+    "code": "7612",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2508",
+    "code": "7513",
+    "regionid": "2015",
+    "regioncode": "07"
+  },
+  {
+    "idzone": "2528",
+    "code": "5046",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2548",
+    "code": "1014",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2568",
+    "code": "1015",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2569",
+    "code": "1016",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2572",
+    "code": "1019",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2573",
+    "code": "3018",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2574",
+    "code": "3019",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2579",
+    "code": "5011",
+    "regionid": "2017",
+    "regioncode": "50"
+  },
+  {
+    "idzone": "2583",
+    "code": "6012",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2584",
+    "code": "6011",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2585",
+    "code": "6013",
+    "regionid": "2008",
+    "regioncode": "60"
+  },
+  {
+    "idzone": "2589",
+    "code": "8026",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2590",
+    "code": "8027",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2591",
+    "code": "8028",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2592",
+    "code": "8029",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2593",
+    "code": "8030",
+    "regionid": "2002",
+    "regioncode": "80"
+  },
+  {
+    "idzone": "2608",
+    "code": "9210",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "2628",
+    "code": "1020",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2629",
+    "code": "1021",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2630",
+    "code": "1022",
+    "regionid": "2010",
+    "regioncode": "10"
+  },
+  {
+    "idzone": "2631",
+    "code": "3051",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2632",
+    "code": "3052",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2633",
+    "code": "3053",
+    "regionid": "2016",
+    "regioncode": "30"
+  },
+  {
+    "idzone": "2648",
+    "code": "9310",
+    "regionid": "2009",
+    "regioncode": "90"
+  },
+  {
+    "idzone": "43",
+    "code": "0000",
+    "regionid": "20089",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "44",
+    "code": "0001",
+    "regionid": "20089",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "46",
+    "code": "0216",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "50",
+    "code": "0123",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "56",
+    "code": "0105",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "57",
+    "code": "0108",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "59",
+    "code": "0221",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "60",
+    "code": "0128",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "64",
+    "code": "0103",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "72",
+    "code": "0106",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "75",
+    "code": "8888",
+    "regionid": "20093",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "80",
+    "code": "9988",
+    "regionid": "20094",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "82",
+    "code": "0002",
+    "regionid": "20089",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "83",
+    "code": "0231",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "85",
+    "code": "0236",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "86",
+    "code": "0233",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "87",
+    "code": "0234",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "88",
+    "code": "0137",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "90",
+    "code": "0133",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "91",
+    "code": "0132",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "92",
+    "code": "0232",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "93",
+    "code": "0228",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "94",
+    "code": "0229",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "97",
+    "code": "0135",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "98",
+    "code": "0238",
+    "regionid": "20091",
+    "regioncode": "02"
+  },
+  {
+    "idzone": "99",
+    "code": "0134",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "100",
+    "code": "0131",
+    "regionid": "20090",
+    "regioncode": "01"
+  },
+  {
+    "idzone": "20609",
+    "code": "2406",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20610",
+    "code": "2309",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20612",
+    "code": "8801",
+    "regionid": "20088",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "20613",
+    "code": "2215",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20614",
+    "code": "2201",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20615",
+    "code": "2203",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20616",
+    "code": "2205",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20617",
+    "code": "2101",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20618",
+    "code": "2108",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20619",
+    "code": "2404",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20620",
+    "code": "2304",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20621",
+    "code": "2411",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20623",
+    "code": "2115",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20624",
+    "code": "2202",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20625",
+    "code": "2208",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20627",
+    "code": "0000",
+    "regionid": "20083",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "20628",
+    "code": "2107",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20629",
+    "code": "2113",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20630",
+    "code": "2312",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20631",
+    "code": "2207",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20632",
+    "code": "2211",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20633",
+    "code": "2103",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20634",
+    "code": "2111",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20635",
+    "code": "2402",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20636",
+    "code": "2414",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20637",
+    "code": "0001",
+    "regionid": "20083",
+    "regioncode": "00"
+  },
+  {
+    "idzone": "20638",
+    "code": "2301",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20639",
+    "code": "2210",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20640",
+    "code": "2109",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20642",
+    "code": "2302",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20643",
+    "code": "2305",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20644",
+    "code": "2209",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20645",
+    "code": "2405",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20646",
+    "code": "2306",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20647",
+    "code": "2401",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20648",
+    "code": "2403",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20649",
+    "code": "2408",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20650",
+    "code": "2410",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20652",
+    "code": "2206",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20654",
+    "code": "2102",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20655",
+    "code": "2110",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20656",
+    "code": "2303",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20657",
+    "code": "2307",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20658",
+    "code": "2407",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20659",
+    "code": "2409",
+    "regionid": "20087",
+    "regioncode": "24"
+  },
+  {
+    "idzone": "20660",
+    "code": "8888",
+    "regionid": "20088",
+    "regioncode": "88"
+  },
+  {
+    "idzone": "20661",
+    "code": "2204",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20662",
+    "code": "2213",
+    "regionid": "20085",
+    "regioncode": "22"
+  },
+  {
+    "idzone": "20664",
+    "code": "2106",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20665",
+    "code": "2308",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20668",
+    "code": "9999",
+    "regionid": "20089",
+    "regioncode": "99"
+  },
+  {
+    "idzone": "20669",
+    "code": "2104",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20670",
+    "code": "2105",
+    "regionid": "20084",
+    "regioncode": "21"
+  },
+  {
+    "idzone": "20672",
+    "code": "2314",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20673",
+    "code": "2313",
+    "regionid": "20086",
+    "regioncode": "23"
+  },
+  {
+    "idzone": "20674",
+    "code": "2416",
+    "regionid": "20087",
+    "regioncode": "24"
+  }
+]

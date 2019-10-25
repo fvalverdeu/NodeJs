@@ -1,0 +1,20 @@
+[
+  {
+    "idprofile": 1,
+    "codprofile": "DV",
+    "description": "DIRECTOR VENTA",
+    "idlevel": 1
+  },
+  {
+    "idprofile": 2,
+    "codprofile": "GR",
+    "description": "GERENTE REGIÓN",
+    "idlevel": 2
+  },
+  {
+    "idprofile": 3,
+    "codprofile": "GZ",
+    "description": "GERENTE ZONA",
+    "idlevel": 3
+  }
+]

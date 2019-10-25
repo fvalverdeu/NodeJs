@@ -1,0 +1,642 @@
+[
+  {
+    "idregion": 12028,
+    "codigo": "00",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12029,
+    "codigo": "01",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12030,
+    "codigo": "02",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12031,
+    "codigo": "03",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12035,
+    "codigo": "07",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12037,
+    "codigo": "09",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12039,
+    "codigo": "11",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12041,
+    "codigo": "99",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12042,
+    "codigo": "88",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12044,
+    "codigo": "13",
+    "codigoiso": "BO"
+  },
+  {
+    "idregion": 12014,
+    "codigo": "00",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12015,
+    "codigo": "11",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12016,
+    "codigo": "12",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12017,
+    "codigo": "13",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12018,
+    "codigo": "14",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12019,
+    "codigo": "15",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12020,
+    "codigo": "16",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12021,
+    "codigo": "17",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 12023,
+    "codigo": "99",
+    "codigoiso": "CL"
+  },
+  {
+    "idregion": 38,
+    "codigo": "00",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 39,
+    "codigo": "01",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 40,
+    "codigo": "02",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 41,
+    "codigo": "03",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 42,
+    "codigo": "04",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 43,
+    "codigo": "05",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 44,
+    "codigo": "06",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 45,
+    "codigo": "07",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 46,
+    "codigo": "08",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 47,
+    "codigo": "09",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 48,
+    "codigo": "10",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 49,
+    "codigo": "11",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 50,
+    "codigo": "12",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 51,
+    "codigo": "13",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 52,
+    "codigo": "14",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 53,
+    "codigo": "15",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 54,
+    "codigo": "18",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 55,
+    "codigo": "19",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 56,
+    "codigo": "20",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 57,
+    "codigo": "22",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 58,
+    "codigo": "24",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 59,
+    "codigo": "26",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 61,
+    "codigo": "28",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 63,
+    "codigo": "88",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 64,
+    "codigo": "99",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 66,
+    "codigo": "29",
+    "codigoiso": "CO"
+  },
+  {
+    "idregion": 2005,
+    "codigo": "00",
+    "codigoiso": "CR"
+  },
+  {
+    "idregion": 2008,
+    "codigo": "08",
+    "codigoiso": "CR"
+  },
+  {
+    "idregion": 2009,
+    "codigo": "09",
+    "codigoiso": "CR"
+  },
+  {
+    "idregion": 2010,
+    "codigo": "10",
+    "codigoiso": "CR"
+  },
+  {
+    "idregion": 20001,
+    "codigo": "99",
+    "codigoiso": "CR"
+  },
+  {
+    "idregion": 2,
+    "codigo": "00",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 3,
+    "codigo": "01",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 4,
+    "codigo": "02",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 5,
+    "codigo": "03",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 6,
+    "codigo": "04",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 7,
+    "codigo": "99",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 8,
+    "codigo": "88",
+    "codigoiso": "DO"
+  },
+  {
+    "idregion": 2005,
+    "codigo": "00",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2017,
+    "codigo": "16",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2018,
+    "codigo": "17",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2019,
+    "codigo": "18",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2020,
+    "codigo": "19",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2021,
+    "codigo": "20",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2022,
+    "codigo": "21",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2023,
+    "codigo": "22",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 2024,
+    "codigo": "23",
+    "codigoiso": "EC"
+  },
+  {
+    "idregion": 20080,
+    "codigo": "00",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20081,
+    "codigo": "11",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20082,
+    "codigo": "13",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20083,
+    "codigo": "14",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20084,
+    "codigo": "15",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20085,
+    "codigo": "88",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20086,
+    "codigo": "12",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 20087,
+    "codigo": "99",
+    "codigoiso": "GT"
+  },
+  {
+    "idregion": 2,
+    "codigo": "00",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 3,
+    "codigo": "50",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 4,
+    "codigo": "51",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 5,
+    "codigo": "52",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 6,
+    "codigo": "53",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 7,
+    "codigo": "54",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 8,
+    "codigo": "55",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 11,
+    "codigo": "61",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 12,
+    "codigo": "62",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 13,
+    "codigo": "63",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 14,
+    "codigo": "65",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 16,
+    "codigo": "71",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 17,
+    "codigo": "72",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 18,
+    "codigo": "73",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 19,
+    "codigo": "74",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 20,
+    "codigo": "80",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 21,
+    "codigo": "81",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 22,
+    "codigo": "82",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 23,
+    "codigo": "97",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 24,
+    "codigo": "99",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 25,
+    "codigo": "88",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 27,
+    "codigo": "66",
+    "codigoiso": "MX"
+  },
+  {
+    "idregion": 2047,
+    "codigo": "00",
+    "codigoiso": "PA"
+  },
+  {
+    "idregion": 2055,
+    "codigo": "31",
+    "codigoiso": "PA"
+  },
+  {
+    "idregion": 2056,
+    "codigo": "32",
+    "codigoiso": "PA"
+  },
+  {
+    "idregion": 2057,
+    "codigo": "33",
+    "codigoiso": "PA"
+  },
+  {
+    "idregion": 2002,
+    "codigo": "80",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2003,
+    "codigo": "01",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2004,
+    "codigo": "03",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2005,
+    "codigo": "70",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2006,
+    "codigo": "08",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2007,
+    "codigo": "04",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2008,
+    "codigo": "60",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2009,
+    "codigo": "90",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2010,
+    "codigo": "10",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2011,
+    "codigo": "05",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2012,
+    "codigo": "06",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2013,
+    "codigo": "02",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2015,
+    "codigo": "07",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2016,
+    "codigo": "30",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2017,
+    "codigo": "50",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 2018,
+    "codigo": "99",
+    "codigoiso": "PE"
+  },
+  {
+    "idregion": 20089,
+    "codigo": "00",
+    "codigoiso": "PR"
+  },
+  {
+    "idregion": 20090,
+    "codigo": "01",
+    "codigoiso": "PR"
+  },
+  {
+    "idregion": 20091,
+    "codigo": "02",
+    "codigoiso": "PR"
+  },
+  {
+    "idregion": 20093,
+    "codigo": "88",
+    "codigoiso": "PR"
+  },
+  {
+    "idregion": 20094,
+    "codigo": "99",
+    "codigoiso": "PR"
+  },
+  {
+    "idregion": 20083,
+    "codigo": "00",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20084,
+    "codigo": "21",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20085,
+    "codigo": "22",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20086,
+    "codigo": "23",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20087,
+    "codigo": "24",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20088,
+    "codigo": "88",
+    "codigoiso": "SV"
+  },
+  {
+    "idregion": 20089,
+    "codigo": "99",
+    "codigoiso": "SV"
+  }
+]

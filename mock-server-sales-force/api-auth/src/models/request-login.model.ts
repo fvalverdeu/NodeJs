@@ -1,5 +1,5 @@
 /* eslint-disable-next-line @typescript-eslint/camelcase */
-export class RequestLogin {
+export class RequestLoginModel {
   country: string
   app: string
   username: string

@@ -35,13 +35,10 @@ routes.map(r => {
   server.use(r.allowedMethods())
 })
 
-// server.use(routes.routes())
-// server.use(routes.allowedMethods())
-
 /* istanbul ignore if  */
 if (env.NODE_ENV !== 'test') {
   server
-    .listen(PORT, '127.0.0.1', () =>
+    .listen(PORT, '0.0.0.0', () =>
       log.info(`Server listening on PORT: ${PORT}`)
     )
     .on('error', log.error)

@@ -1,20 +1,23 @@
 import data from './data.json'
-import { RequestLogin } from '../models/RequestLogin.model'
+import { RequestLoginModel } from '../models/request-login.model'
 import { LoginModel } from 'src/models/login.model.js'
 
 export default class {
-  async findAll(): Promise<RequestLogin[]> {
+  async findAll(): Promise<LoginModel[]> {
     return new Promise(resolve => resolve(data))
   }
 
-  async login(RequestLogin: RequestLogin): Promise<LoginModel[]> {
+  async login(requestLoginModel: RequestLoginModel): Promise<any> {
+    // console.log('repository')
     return new Promise(resolve => {
       resolve(
-        data.filter(
-          c =>
-            c.username === RequestLogin.username &&
-            c.password === RequestLogin.password
-        )
+        data.filter(c => {
+          // console.log(c)
+          return (
+            c.username === requestLoginModel.username &&
+            c.password === requestLoginModel.password
+          )
+        })[0]
       )
     })
   }
