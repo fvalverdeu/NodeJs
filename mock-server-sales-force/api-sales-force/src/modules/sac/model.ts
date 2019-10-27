@@ -22,4 +22,5 @@ export class Zone {
   code: string
   regionid: string
   regioncode: string
+  codeiso: string
 }

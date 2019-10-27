@@ -1,7 +1,7 @@
 import countrydata from './data/country.data.json'
 import profiledata from './data/profile.data.json'
 import regiondata from './data/region.data.json'
-import zonedata from './data/zone1.data.json'
+import zonedata from './data/zone2.data.json'
 
 import { Country, Profile, Region, Zone } from './model'
 
@@ -38,11 +38,11 @@ export default class {
     return new Promise(resolve => resolve(zonedata))
   }
 
-  async findByRegionZone(regioncode: string): Promise<Zone[]> {
+  async findByRegionZone(iso: string, regioncode: string): Promise<Zone[]> {
     return new Promise(resolve => {
       resolve(
         zonedata.filter(c => {
-          return c.regioncode === regioncode
+          return c.regioncode === regioncode && c.codeiso === iso
         })
       )
     })

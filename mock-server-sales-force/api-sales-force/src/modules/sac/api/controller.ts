@@ -41,4 +41,21 @@ export default class {
       ctx.throw(400, `Country ${iso} not found`)
     }
   }
+
+  async listZone(ctx: BaseContext): Promise<any> {
+    ctx.body = await service.findAllZone()
+  }
+
+  async findByRegionZone(ctx: Context): Promise<any> {
+    const iso = ctx.params.iso
+    const coderegion = ctx.params.coderegion
+    console.log(ctx.params)
+    const result = await service.findByRegionZone(iso, coderegion)
+
+    if (result) {
+      ctx.body = result
+    } else {
+      ctx.throw(400, `Country ${coderegion} not found`)
+    }
+  }
 }
