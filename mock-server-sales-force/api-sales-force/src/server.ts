@@ -15,11 +15,19 @@ import notFavicon from './utils/api-not-favicon'
 import apiError from './utils/api-error'
 import docs from './utils/api-docs'
 import routes from './routes'
+import AppGraphqlModule from './graphql'
+import { ApolloServer } from 'apollo-server-koa'
 
 const env = yenv()
 const PORT = env.PORT
 
+const { schema, context } = AppGraphqlModule
 const server = new Koa()
+const serverGraphql = new ApolloServer({ schema, context, introspection: true })
+
+const options = {
+  origin: '*',
+}
 
 server
   .use(accessLogger)
@@ -36,6 +44,8 @@ routes.map(r => {
   server.use(r.routes())
   server.use(r.allowedMethods())
 })
+
+// serverGraphql.applyMiddleware({ app: server })
 
 /* istanbul ignore if  */
 if (env.NODE_ENV !== 'test') {

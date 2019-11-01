@@ -1,0 +1,44 @@
+type Profile {
+  cod_user: String
+  cod_consultant : String
+  fullname: String
+  names: String
+  firstName: String
+  lastName: String
+  cod_country: String
+  country_name: String
+  cod_region: String
+  cod_zone: String
+  section: String
+  cod_role: String
+  role: String
+  identification_document: String
+  level: String
+  cub: String
+  landline: String
+  cellphoneNumber: String
+  email: String
+  latitude: String
+  longitude: String
+  cod_level: String
+  id_level: String
+  cod_territory: String
+}
+
+input Parameters {
+  country: String!,
+  userName: String!,
+  role: String!
+}
+
+input Parametersua {
+  country: String!,
+  region: String!,
+  zone: String!,
+  section: String!
+}
+
+type Query {
+  ProfileByUserName(input: Parameters): Profile,
+  ProfileByUA(input: Parametersua): Profile
+}
