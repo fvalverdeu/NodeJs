@@ -3,6 +3,7 @@ import helmet from 'koa-helmet'
 import bodyParser from 'koa-bodyparser'
 import yenv from 'yenv'
 import log from 'fancy-log'
+import cors from 'koa2-cors'
 
 import {
   access as accessLogger,
@@ -20,6 +21,10 @@ const PORT = env.PORT
 
 const server = new Koa()
 
+const options = {
+  origin: '*',
+}
+
 server
   .use(accessLogger)
   .use(errorLogger)
@@ -29,6 +34,7 @@ server
   .use(notFavicon)
   .use(apiError)
   .use(docs)
+  .use(cors( options ))
 
 routes.map(r => {
   server.use(r.routes())

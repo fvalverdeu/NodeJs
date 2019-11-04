@@ -38,14 +38,14 @@ server
   .use(notFavicon)
   .use(apiError)
   .use(docs)
-  .use(cors())
+  .use(cors( options ))
 
 routes.map(r => {
   server.use(r.routes())
   server.use(r.allowedMethods())
 })
 
-// serverGraphql.applyMiddleware({ app: server })
+serverGraphql.applyMiddleware({ app: server })
 
 /* istanbul ignore if  */
 if (env.NODE_ENV !== 'test') {

@@ -34,6 +34,7 @@
     "@graphql-modules/core": "^0.7.8",
     "@hapi/joi": "^15.1.0",
     "@types/ioredis": "^4.0.13",
+    "@types/koa2-cors": "^2.0.1",
     "apollo-server-koa": "^2.7.0",
     "axios": "^0.19.0",
     "cross-env": "^5.2.0",
@@ -48,6 +49,7 @@
     "koa-helmet": "^4.2.0",
     "koa-morgan": "^1.0.1",
     "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
     "swagger2-koa": "^1.0.4",
     "yenv": "^2.1.0"
   },

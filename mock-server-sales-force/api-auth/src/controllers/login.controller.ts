@@ -16,19 +16,19 @@ export default class {
     const data = await service.login(requestLoginModel)
 
     const result = {
-      title: "User valid",
+      title: 'User valid',
       type: 200,
       detail: {
         accessToken: data.accessToken,
         refreshToken: data.refreshToken,
         name: data.username,
         role: data.role,
-        country: data.country
+        country: data.country,
       },
-      invalidparams: ''
+      invalidparams: '',
     }
     console.log(result)
-    ctx.body = result;
+    ctx.body = result
   }
 
   async findAll(ctx: BaseContext): Promise<any> {
