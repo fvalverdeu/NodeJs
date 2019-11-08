@@ -1,0 +1,38 @@
+type Option {
+  creation_date: String
+  update_date: String
+  role: [String]
+  option_code: Int
+  description: String
+  position: Int
+  option_type: String
+  url: String
+  application: String
+  active: Boolean
+  zone_section: [String]
+  sub_option: [SubOption]
+}
+
+type SubOption {
+  creation_date: String
+  update_date: String
+  role: [String]
+  option_code: Int
+  description: String
+  position: Int
+  option_type: String
+  url: String
+  application: String
+  active: Boolean
+  zone_section: [String]
+}
+
+input Params {
+  country: String!,
+  role: String!,
+  application: String!
+}
+
+type Query {
+  Options(input: Params): [Option]
+}

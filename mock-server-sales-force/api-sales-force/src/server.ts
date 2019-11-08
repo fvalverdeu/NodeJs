@@ -45,7 +45,7 @@ routes.map(r => {
   server.use(r.allowedMethods())
 })
 
-// serverGraphql.applyMiddleware({ app: server })
+serverGraphql.applyMiddleware({ app: server })
 
 /* istanbul ignore if  */
 if (env.NODE_ENV !== 'test') {

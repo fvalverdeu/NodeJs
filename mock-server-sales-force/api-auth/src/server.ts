@@ -1,4 +1,5 @@
 import Koa from 'koa'
+import cors from 'koa2-cors'
 import helmet from 'koa-helmet'
 import bodyParser from 'koa-bodyparser'
 import yenv from 'yenv'
@@ -29,6 +30,7 @@ server
   .use(notFavicon)
   .use(apiError)
   .use(docs)
+  .use(cors())
 
 routes.map(r => {
   server.use(r.routes())
