@@ -1,0 +1,24 @@
+type CurrentCampaign {
+  current_campaign: String
+  previous_campaign: String
+  current_campaign_short: String
+  phase: String
+  campaign_start_date: String
+  campaign_end_date: String
+  billing_start_date: String
+  billing_start_flag: String
+  billing_days: String
+  billing_day: String
+  last_billed_campaign: String
+}
+
+input UA {
+  country: String!,
+  codeRegion: String,
+  codeZone: String,
+  codeRole: String
+}
+
+type Query {
+  CurrentCampaign(input: UA): CurrentCampaign
+}

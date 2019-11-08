@@ -52,5 +52,32 @@
     "id_level": null,
     "cod_territory": "1820",
     "__typename": "Profile"
+  },
+  {
+    "cod_user": "sdigitalffvv",
+    "cod_consultant": null,
+    "fullname": "Soporte Digital FFVV",
+    "names": "SOPORTE",
+    "firstName": "DIGITAL FFVV",
+    "lastName": "",
+    "cod_country": "PE",
+    "country_name": "Perú",
+    "cod_region": "30",
+    "cod_zone": "3015",
+    "section": null,
+    "cod_role": "DV",
+    "role": "DIRECTOR VENTA",
+    "identification_document": null,
+    "level": null,
+    "cub": null,
+    "landline": "",
+    "cellphoneNumber": "",
+    "email": null,
+    "latitude": null,
+    "longitude": null,
+    "cod_level": "P",
+    "id_level": "1",
+    "cod_territory": null,
+    "__typename": "Profile"
   }
 ]

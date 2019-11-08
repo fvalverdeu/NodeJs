@@ -1,0 +1,15 @@
+[
+  {
+    "current_campaign": "201915",
+    "previous_campaign": "201914",
+    "current_campaign_short": "C-15",
+    "phase": "V",
+    "campaign_start_date": "2019-09-28T00:00:00.000Z",
+    "campaign_end_date": "2019-10-18T00:00:00.000Z",
+    "billing_start_date": "2019-10-15T00:00:00.000Z",
+    "billing_start_flag": "false",
+    "billing_days": "4",
+    "billing_day": "-3",
+    "last_billed_campaign": "201914"
+  }
+]
