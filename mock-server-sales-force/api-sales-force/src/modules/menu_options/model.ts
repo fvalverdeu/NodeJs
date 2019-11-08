@@ -5,12 +5,12 @@ export interface MenuOption {
   option_type: string
   role: string[]
   active: boolean
-  sub_option: SubOption
+  sub_option: SubOption[]
 }
 
 export class SubOption {
   description: string
   application: string
-  role: string
+  role: string[]
   // url: string
 }

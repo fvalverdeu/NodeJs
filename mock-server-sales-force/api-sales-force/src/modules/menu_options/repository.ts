@@ -2,16 +2,10 @@ import { MenuOption } from './model'
 import menuoption from './data/menuoption.data.json'
 
 export default class {
-  async findByParam(country: string, query: any) {
-    const { role, application } = query
-
-
-  }
-
-  async findProfileByUserNameUserSac(
+  async findByParam(
     country: string,
     query: any
-  ): Promise<MenuOption> {
+  ): Promise<MenuOption[]> {
     try {
       const { role, application } = query
       const parameters = [
@@ -21,9 +15,10 @@ export default class {
       ]
       return new Promise(resolve => {
         resolve(
-          menuoption.find(
+          menuoption.filter(
             c =>
-              c.role === parameters[0].value
+              // c.role === parameters[1].value
+              c.active === true
           )
         )
       })
