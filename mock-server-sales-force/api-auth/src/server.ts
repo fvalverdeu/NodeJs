@@ -34,7 +34,7 @@ server
   .use(notFavicon)
   .use(apiError)
   .use(docs)
-  .use(cors( options ))
+  .use(cors(options))
 
 routes.map(r => {
   server.use(r.routes())

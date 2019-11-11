@@ -10,4 +10,12 @@ export default class {
     )
     return resultado
   }
+
+  async findProfileByUA(country: string, query: any) {
+    const resultado = await repository.findProfileByUASac(
+      country,
+      query
+    )
+    return resultado
+  }
 }

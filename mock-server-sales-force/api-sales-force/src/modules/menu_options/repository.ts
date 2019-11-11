@@ -2,10 +2,7 @@ import { MenuOption } from './model'
 import menuoption from './data/menuoption.data.json'
 
 export default class {
-  async findByParam(
-    country: string,
-    query: any
-  ): Promise<MenuOption[]> {
+  async findByParam(country: string, query: any): Promise<MenuOption[]> {
     try {
       const { role, application } = query
       const parameters = [

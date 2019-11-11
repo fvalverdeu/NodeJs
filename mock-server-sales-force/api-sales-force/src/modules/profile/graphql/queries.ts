@@ -7,12 +7,13 @@ export default {
     const { country, userName, role } = input
     return await service.findProfileByUserName(country, { userName, role })
   },
-  // async ProfileByUA(_: any, { input }: any) {
-  //   const { country, region, zone, section } = input
-  //   return await service.findProfileByZoneRegionSectionUserUAGet(country, {
-  //     region,
-  //     zone,
-  //     section,
-  //   })
-  // },
+
+  async ProfileByUA(_: any, { input }: any) {
+    const { country, region, zone, section } = input
+    return await service.findProfileByUA(country, {
+      region,
+      zone,
+      section,
+    })
+  },
 }
